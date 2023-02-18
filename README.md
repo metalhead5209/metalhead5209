@@ -4,7 +4,19 @@ Hi 👋 My name is Aaron Rodi
 Software Developer
 ------------------
 
-Passionate Software Developer. I’ll be graduating in December with my AAS in Web Development. When I’m not doing my school work, I am building projects and refining my skills. This is my passion. I am 31 years old and spent the majority of my life wondering if I’d ever have a legitimate career in something I’m passionate about and I have finally found it. I would highly appreciate any advice from people currently in or pursuing a career in development. One day I want to be the one giving up-and-coming developers advice on how to succeed in this industry.
+Information technology professional. Strong background in customer service and
+troubleshooting. Enthusiastic about applying lessons to solve problems by
+engineering a solution.
+Graduate of Delgado Community College with a degree in Information Technology
+focusing on Front-end Web Design. I am extremely passionate about web design
+and front-end development, and take great pride in my ability to create intuitive
+and engaging user experiences. For me, coding is more than just a profession - it
+is a true passion. I am constantly exploring new techniques and technologies, and
+am always seeking to expand my skillset in order to create the most effective,
+efficient, and visually stunning solutions possible. Whether I'm developing
+complex, dynamic websites or crafting elegant, intuitive user interfaces, I am
+always focused on delivering exceptional results that meet or exceed the highest
+standards of quality and performance.
 
 * 🌍  I'm based in Lafayette, Louisiana
 * 🖥️  See my portfolio at [Aaron Rodi](http://aaron-rodi.netlify.app/)
@@ -12,6 +24,7 @@ Passionate Software Developer. I’ll be graduating in December with my AAS in W
 * 🧠  I'm learning Every Day
 * 🤝  I'm open to collaborating on Open source projects
 * ⚡  I love Star Wars
+* 👨‍💼  CGI Federal 
 
 ### Skills
 

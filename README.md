@@ -4,19 +4,31 @@ Hi 👋 My name is Aaron Rodi
 Software Developer
 ------------------
 
-Information technology professional. Strong background in customer service and
-troubleshooting. Enthusiastic about applying lessons to solve problems by
-engineering a solution.
-Graduate of Delgado Community College with a degree in Information Technology
-focusing on Front-end Web Design. I am extremely passionate about web design
-and front-end development, and take great pride in my ability to create intuitive
-and engaging user experiences. For me, coding is more than just a profession - it
-is a true passion. I am constantly exploring new techniques and technologies, and
-am always seeking to expand my skillset in order to create the most effective,
-efficient, and visually stunning solutions possible. Whether I'm developing
-complex, dynamic websites or crafting elegant, intuitive user interfaces, I am
-always focused on delivering exceptional results that meet or exceed the highest
-standards of quality and performance.
+ Hi, I'm Aaron — Tech Support Pro Turning QA Tester
+I'm a Tier 2 tech support specialist with 2.5 years of experience at CGI Federal, working in Azure environments and supporting Microsoft services and government systems. Now, I’m transitioning into QA testing with a focus on exploratory testing, test case writing, and automation basics.
+
+🧪 What I'm Learning
+Manual & exploratory testing techniques
+
+Writing bug reports and test cases
+
+Tools: Azure DevOps, Chrome DevTools, Postman, Bug Magnet
+
+Beginner automation with Selenium + Python
+
+Agile workflows and the QA role in Scrum teams
+
+🛠️ Projects I'm Working On
+Practicing exploratory testing on real-world websites
+
+Writing sample bug reports & test cases for portfolio
+
+Building basic UI test scripts using Selenium
+
+Learning API testing with Postman collections
+
+🎯 Career Goal
+To become a QA tester on an Agile team where I can contribute to product quality, build on my technical support background, and grow into automation or QA leadership.
 
 * 🌍  I'm based in Lafayette, Louisiana
 * 🖥️  See my portfolio at [Aaron Rodi](http://aaron-rodi.netlify.app/)

@@ -1,7 +1,7 @@
 Hi 👋 My name is Aaron Rodi
 ===========================
 
-Software Developer
+Helpdesk Technician 
 ------------------
 
  Hi, I'm Aaron — Tech Support Pro Turning QA Tester
